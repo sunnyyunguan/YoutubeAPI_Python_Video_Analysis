@@ -1,4 +1,4 @@
-This project makes use of Youtube API to fetch video information from Youtube channels.
+This project makes use of Youtube API to fetch video information from Youtube channels. Data analysis and plots notebook is also added for fun.
 
 Notebook Version 1
 -- function get_video_details (input: video_id, output: view_count, like_count, dislike_count, comment_count) 
